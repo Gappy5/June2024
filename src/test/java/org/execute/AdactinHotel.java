@@ -215,4 +215,8 @@ public class AdactinHotel {
 			System.out.println("Book Now Button is not Enabled");
 		}
 	}
+	private void sysout() {
+		System.out.println("Hello Gappy");
+
+	}
 }
